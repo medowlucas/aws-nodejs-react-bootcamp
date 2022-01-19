@@ -19,7 +19,7 @@ const Header = ({ title, onAdd, showAdd }) => {
 };
 
 Header.defaultProps = {
-  title: "BIA 2022",
+  title: "Lucas AWS",
 };
 
 export default Header;
